@@ -35,7 +35,7 @@
         <nav class="navbar">
             <div class="header-top">
                 <div class="logo">
-                    <img src="https://via.placeholder.com/40" alt="RoadGuard Logo" class="logo-img">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5o-Sjs5TEBXZccekEqo9tJSwMbBH8MlANaQ&s" alt="RoadGuard Logo" class="logo-img">
                     RoadGuard Việt Nam
                 </div>
                 <details class="user-menu">
@@ -45,8 +45,7 @@
                         <li><a href="${pageContext.request.contextPath}/view/updateInfor.jsp">Chỉnh sửa thông tin</a></li>
                         <li><a href="${pageContext.request.contextPath}/view/registerVehicle.jsp">Đăng kí xe</a></li>
                         <li><a href="${pageContext.request.contextPath}/Logout">Đăng xuất</a></li>
-                        <li><a href="${pageContext.request.contextPath}/view/changePassword.jsp">Đổi mật khẩu</a></li>
-                        <li><a href="${pageContext.request.contextPath}/view/help.jsp">Trợ giúp</a></li>
+                        
                     </ul>
                 </details>
             </div>

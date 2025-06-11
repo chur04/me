@@ -1,4 +1,4 @@
-/* updateInfor.css - Styles for the Update Information page of RoadGuard Việt Nam */
+/* registerVehicle.css - Styles for the Register Vehicle page of RoadGuard Việt Nam */
 
 /* Define custom variables for consistent theming */
 :root {
@@ -260,22 +260,6 @@ body {
     background: var(--hover-yellow);
     color: #fff;
     transform: translateY(-2px);
-}
-
-.error-message {
-    color: red;
-    font-style: italic;
-    font-size: 0.9rem;
-    margin-top: 1rem;
-    text-align: center;
-}
-
-.success-message {
-    color: green;
-    font-style: italic;
-    font-size: 0.9rem;
-    margin-top: 1rem;
-    text-align: center;
 }
 
 .back-button {

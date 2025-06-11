@@ -32,8 +32,7 @@
                     <li><a href="${pageContext.request.contextPath}/view/updateInfor.jsp">Chỉnh sửa thông tin</a></li>
                     <li><a href="${pageContext.request.contextPath}/view/registerVehicle.jsp">Đăng kí xe</a></li>
                     <li><a href="${pageContext.request.contextPath}/Logout">Đăng xuất</a></li>
-                    <li><a href="${pageContext.request.contextPath}/view/changePassword.jsp">Đổi mật khẩu</a></li>
-                    <li><a href="${pageContext.request.contextPath}/view/help.jsp">Trợ giúp</a></li>
+                    
                 </ul>
             </details>
         </div>
